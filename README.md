@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hello world! ![visitors](https://visitor-badge.laobi.icu/badge?page_id=k4my4b)
+
+ <img style="border-radius: 1rem;" src="https://github-readme-stats.vercel.app/api?username=k4my4b&show_icons=true&theme=gotham" alt="k4my4b" width="45%" align="right"/>
+ <img style="border-radius: 1rem;" src="https://github-readme-streak-stats.herokuapp.com/?user=k4my4b&theme=dark" width="45%" >
 
 <!--
 **k4my4b/k4my4b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
